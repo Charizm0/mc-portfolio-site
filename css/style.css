@@ -63,7 +63,8 @@ header {
   color: white;
   padding: 150px 100px; }
   .first-overlay span {
-    font-size: 0.7em;
+    font-size: 0.9em;
+    font-weight: bold;
     text-transform: uppercase;
     display: block;
     font-family: Verdana; }
@@ -94,7 +95,8 @@ header {
   color: white;
   padding: 150px 100px; }
   .second-overlay span {
-    font-size: 0.7em;
+    font-size: 0.9em;
+    font-weight: bold;
     text-transform: uppercase;
     display: block;
     font-family: Verdana; }
@@ -125,7 +127,8 @@ header {
   color: white;
   padding: 150px 100px; }
   .third-overlay span {
-    font-size: 0.7em;
+    font-size: 0.9em;
+    font-weight: bold;
     text-transform: uppercase;
     display: block;
     font-family: Verdana; }
@@ -156,42 +159,12 @@ header {
   color: white;
   padding: 150px 100px; }
   .fourth-overlay span {
-    font-size: 0.7em;
+    font-size: 0.9em;
+    font-weight: bold;
     text-transform: uppercase;
     display: block;
     font-family: Verdana; }
   .fourth-overlay p {
-    font-size: 5em; }
-
-/*third */
-.third {
-  position: relative;
-  width: 48%;
-  height: 600px;
-  overflow: hidden;
-  background-color: white;
-  border-radius: 10px;
-  margin-bottom: 20px;
-  display: inline-block;
-  margin-left: 1.5%; }
-  .third img {
-    position: absolute;
-    opacity: 0.5;
-    margin-left: -50%; }
-
-.third-overlay {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  background-color: rgba(149, 89, 223, 0.6);
-  color: white;
-  padding: 150px 100px; }
-  .third-overlay span {
-    font-size: 0.7em;
-    text-transform: uppercase;
-    display: block;
-    font-family: Verdana; }
-  .third-overlay p {
     font-size: 5em; }
 
 /*vm */
@@ -215,7 +188,7 @@ header {
   width: 100%;
   padding: 200px 50px; }
   .vm-overlay span {
-    font-size: 0.7em;
+    font-size: 0.9em;
     text-transform: uppercase;
     display: block;
     font-family: Verdana; }
@@ -227,7 +200,8 @@ header {
 /*=========Footer========== */
 footer {
   padding: 100px 200px;
-  color: #414148; }
+  color: #414148;
+  margin-bottom: 200px; }
   footer p {
     text-transform: uppercase;
     font-weight: bold;
